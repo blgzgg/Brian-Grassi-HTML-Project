@@ -1,0 +1,72 @@
+#mainHeader
+{
+	text-align: center;
+	padding-top: 10px;
+	background-color: rgb(43,60,127, 0.5);
+	opacity: 1;
+	border-radius: 5px;
+	box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.7);
+	font-family: 'Courier New';
+	font-weight: bold;
+	font-size: 60px;
+}
+#centralBox
+{
+	text-align: center;
+	padding-top: 50px;
+	background-color: rgb(7,30,82, 0.8);
+	padding-right: 120px;
+	padding-left: 120px;
+	margin-right: 150px;
+	margin-left: 150px;
+	color: white;
+	padding-bottom: 700px;
+	font-size: 25px;
+	
+}
+#selectionBoxLeft
+{
+	text-align: center;
+	margin-top: 50px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	padding-left: 40px;
+	padding-right: 40px;
+	float: left;
+	background-color: rgb(20,20,20,0.8);
+	border-radius: 10px;
+	width: 220px;
+	
+}
+#selectionBoxRight
+{
+	text-align: center;
+	margin-top: 50px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	padding-right: 40px;
+	padding-left: 40px;
+	float: right;
+	background-color: rgb(20,20,20,0.8);
+	border-radius: 10px;
+	width: 220px;
+}
+#aboutMeImage
+{
+	float: left;
+	padding-right: 15px;
+	padding-left: 15px;	
+}
+
+#backButton
+{
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	padding-left: 40px;
+	padding-right: 40px;
+	border-radius: 10px;
+	width: 150px;
+	background-color: rgb(20,20,20,0.8);
+	float: right;
+}
